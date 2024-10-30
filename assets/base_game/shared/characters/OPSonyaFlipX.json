@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				415,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonya_Idle"
+		},
+		{
+			"offsets": [
+				415,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonya_Right"
+		},
+		{
+			"offsets": [
+				415,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonya_MissRight"
+		},
+		{
+			"offsets": [
+				415,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonya_MissUp"
+		},
+		{
+			"offsets": [
+				415,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonya_MissLeft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Sonya",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Sonya",
+	"flip_x": true,
+	"healthbar_colors": [
+		134,
+		89,
+		68
+	],
+	"camera_position": [
+		-270,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

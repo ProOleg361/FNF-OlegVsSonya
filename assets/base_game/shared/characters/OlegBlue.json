@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				460
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Oleg_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				460
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Oleg_RIght",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				460
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Oleg_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				460
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Oleg_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				460
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Oleg_Up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/OlegBlue",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "OlegBlue",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		250,
+		255
+	],
+	"camera_position": [
+		-300,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
